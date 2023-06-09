@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @modern-nm
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? — modern-nm@yandex.ru
 
 <!---
